@@ -1,0 +1,9 @@
+ul {font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    color: darkred;
+    font-size: 18px;}
+
+ol {font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    color: darkgreen;
+    font-size: 18px;}
